@@ -1,0 +1,6 @@
+C:\Users\esulu\Desktop\WXRK_FXLDER\2course\oop\CourseWorkShuliupovKN221v\ShuliupovCourseWorkApplication\CourseWorkClassLib\bin\Debug\CourseWorkClassLib.dll
+C:\Users\esulu\Desktop\WXRK_FXLDER\2course\oop\CourseWorkShuliupovKN221v\ShuliupovCourseWorkApplication\CourseWorkClassLib\bin\Debug\CourseWorkClassLib.pdb
+C:\Users\esulu\Desktop\WXRK_FXLDER\2course\oop\CourseWorkShuliupovKN221v\ShuliupovCourseWorkApplication\CourseWorkClassLib\obj\Debug\CourseWorkClassLib.csproj.AssemblyReference.cache
+C:\Users\esulu\Desktop\WXRK_FXLDER\2course\oop\CourseWorkShuliupovKN221v\ShuliupovCourseWorkApplication\CourseWorkClassLib\obj\Debug\CourseWorkClassLib.csproj.CoreCompileInputs.cache
+C:\Users\esulu\Desktop\WXRK_FXLDER\2course\oop\CourseWorkShuliupovKN221v\ShuliupovCourseWorkApplication\CourseWorkClassLib\obj\Debug\CourseWorkClassLib.dll
+C:\Users\esulu\Desktop\WXRK_FXLDER\2course\oop\CourseWorkShuliupovKN221v\ShuliupovCourseWorkApplication\CourseWorkClassLib\obj\Debug\CourseWorkClassLib.pdb
